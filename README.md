@@ -8,7 +8,7 @@ This repository contains week-wise solutions to all the **mandatory hands-on exe
 
 ```
 DN4-JAVA-FSE-SOLUTIONS/
-├── WeekN/
+├── Week-N/
 │   ├── ModuleName/
 │   │   ├── 01_ExerciseName/
 │   │   │   ├── Code/

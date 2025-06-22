@@ -15,12 +15,6 @@
 .classpath
 .settings/
 
-# Output Files (Screenshots, Logs)
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.log
 
 # OS-Specific Files
 .DS_Store
