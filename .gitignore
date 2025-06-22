@@ -1,0 +1,27 @@
+# Java Build Artifacts
+*.class
+*.jar
+*.war
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA / Eclipse
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Output Files (Screenshots, Logs)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.log
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
