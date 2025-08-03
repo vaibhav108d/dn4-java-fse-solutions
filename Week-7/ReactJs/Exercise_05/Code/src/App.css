@@ -1,0 +1,14 @@
+.mystyle1, .st2, .v1 {
+  padding: 20px;
+  border: 2px solid green;
+  width: 30%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
